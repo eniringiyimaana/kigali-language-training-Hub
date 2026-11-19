@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-# Replace the placeholder domain below with your real domain before publishing.
-Sitemap: https://your-domain.com/sitemap.xml
+# Sitemap for the live GitHub Pages site
+Sitemap: https://eniringiyimaana.github.io/kigali-language-training-Hub/sitemap.xml

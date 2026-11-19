@@ -4,8 +4,8 @@
 
 document.addEventListener('DOMContentLoaded', function () {
 
-  /* ---------- Dynamic canonical / social image URLs ----------
-     Placeholders in the HTML are replaced automatically once hosted. */
+  /* ---------- Canonical / social URLs ----------
+     Keeps the URLs in sync with the current host automatically. */
   if (window.location.protocol === 'http:' || window.location.protocol === 'https:') {
     const pageUrl = window.location.href.split('#')[0].split('?')[0];
     const imageUrl = new URL('assests/logo.jpeg', pageUrl).href;
