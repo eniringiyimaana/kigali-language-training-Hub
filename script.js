@@ -51,12 +51,12 @@ document.addEventListener('DOMContentLoaded', function () {
       goals: ['Québec skilled worker applications', 'Québec study projects', 'Family sponsorship files']
     },
     {
-      code: 'TEF FR',
-      name: 'TEF France',
+      code: 'TEF',
+      name: 'TEF',
       level: 'France applications',
       desc: 'French language evaluation used for French nationality, residence and integration processes.',
       points: ['Oral interview preparation', 'Writing and comprehension drills', 'Official-format mock exams'],
-      details: 'Preparation for the TEF France covers the language level expected in French nationality and residency procedures, with extra attention to the spoken interview and everyday administrative vocabulary.',
+      details: 'Preparation for the TEF covers the language level expected in French nationality and residency procedures, with extra attention to the spoken interview and everyday administrative vocabulary.',
       goals: ['French nationality application', 'Long-term residence', 'Integration and civic life']
     },
     {
