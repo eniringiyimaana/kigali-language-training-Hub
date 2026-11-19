@@ -1,0 +1,25 @@
+{
+  "name": "Kigali Language Training Hub",
+  "short_name": "KLTH",
+  "description": "French exam preparation for TCF, TEF Canada, TEFaQ, DELF and DALF in Goma and Kigali.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a2f7d",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assests/logo.jpeg",
+      "sizes": "1080x1080",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
